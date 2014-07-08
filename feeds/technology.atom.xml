@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Chifeng's Blog</title><link href="http://blog.chifeng.name/" rel="alternate"></link><link href="http://blog.chifeng.name/feeds/all.atom.xml" rel="self"></link><id>http://blog.chifeng.name/</id><updated>2014-06-24T00:00:00+08:00</updated><entry><title>翻墙</title><link href="http://blog.chifeng.name/fuck-gfw.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Chifeng</name></author><id>tag:blog.chifeng.name,2014-06-24:fuck-gfw.html</id><summary type="html">&lt;p&gt;我曾经试过多种方式，早些年L2TP/PPTP/OpenVPN、甚至于普通的Squid Proxy都还能用，不幸的是现在都被封了。目前来看，如果你不加一层SSL的话，基本上是不可能翻出去了。
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Chifeng's Blog</title><link href="http://blog.chifeng.name/" rel="alternate"></link><link href="http://blog.chifeng.name/feeds/technology.atom.xml" rel="self"></link><id>http://blog.chifeng.name/</id><updated>2014-06-24T00:00:00+08:00</updated><entry><title>翻墙</title><link href="http://blog.chifeng.name/fuck-gfw.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Chifeng</name></author><id>tag:blog.chifeng.name,2014-06-24:fuck-gfw.html</id><summary type="html">&lt;p&gt;我曾经试过多种方式，早些年L2TP/PPTP/OpenVPN、甚至于普通的Squid Proxy都还能用，不幸的是现在都被封了。目前来看，如果你不加一层SSL的话，基本上是不可能翻出去了。
 我自己正在使用的一种简单的翻墙方式，如下&lt;/p&gt;
 &lt;h5&gt;要求：&lt;/h5&gt;
 &lt;ul&gt;
@@ -62,23 +62,4 @@ sh ~/ssh_tunnel.sh
 &lt;h5&gt;第三步，设置Firefox的代理为localhost:3128即可&lt;/h5&gt;
 &lt;p&gt;这样访问国内网站，使用Chrome/Safari，访问海外网站使用Firefox即可。根据SSH协议本身的安全性，目测这种翻墙方式很难被封掉，除非不容许SSH协议通过&lt;/p&gt;
 &lt;p&gt;当然还有一种更简单的方式，直接花钱购买相关的SSL VPN服务，比如： EUREKAVPT https://eurekavpt.com 一年300元的价格，物超所值!&lt;/p&gt;
-&lt;p&gt;BTW, 看到老黄已经在研究Proxy直接变为TCP的路由了，高端！！如果搞定，那就太方便了！&lt;/p&gt;</summary><category term="Technology"></category><category term="SSHTunnel"></category><category term="Squid"></category><category term="Proxy"></category><category term="Linux"></category></entry><entry><title>The First Post</title><link href="http://blog.chifeng.name/the-first-post.html" rel="alternate"></link><updated>2014-06-24T00:00:00+08:00</updated><author><name>Chifeng</name></author><id>tag:blog.chifeng.name,2014-06-24:the-first-post.html</id><summary type="html">&lt;p&gt;This is the first post to test functions of Pelican which is a Python blog system. There is a list to share my online information, please feel free to contact me. &lt;/p&gt;
-&lt;p&gt;第一篇文章，主要用来测试Pelican的功能，另外列出一些自己的个人信息供联系
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;h5&gt;Personal Information Below:&lt;/h5&gt;
-&lt;h5&gt;个人信息如下:&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;Blog: http://blog.chifeng.name/&lt;/li&gt;
-&lt;li&gt;Facebook:  http://facebook.com/quchifeng&lt;/li&gt;
-&lt;li&gt;G+:   https://plus.google.com/+ChifengQu/&lt;/li&gt;
-&lt;li&gt;Twitter:  http://twitter.com/chifeng&lt;/li&gt;
-&lt;li&gt;微博:  http://weibo.com/quchifeng&lt;/li&gt;
-&lt;li&gt;Github:  http://github.com/chifeng&lt;/li&gt;
-&lt;li&gt;SF.gg:  http://segmentfault.com/u/chifeng&lt;/li&gt;
-&lt;li&gt;Tumblr:  http://tumblr.com/chifeng&lt;/li&gt;
-&lt;li&gt;Instagram: http://instagram.com/chifeng&lt;/li&gt;
-&lt;li&gt;Quora: https://www.quora.com/Chifeng-Qu&lt;/li&gt;
-&lt;li&gt;Foursquare: https://foursquare.com/user/1184604&lt;/li&gt;
-&lt;li&gt;Zhihu: http://www.zhihu.com/people/chifeng&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Life"></category><category term="English"></category></entry></feed>
+&lt;p&gt;BTW, 看到老黄已经在研究Proxy直接变为TCP的路由了，高端！！如果搞定，那就太方便了！&lt;/p&gt;</summary><category term="Technology"></category><category term="SSHTunnel"></category><category term="Squid"></category><category term="Proxy"></category><category term="Linux"></category></entry></feed>
