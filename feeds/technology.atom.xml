@@ -3,7 +3,7 @@
 我自己正在使用的一种简单的翻墙方式，如下&lt;/p&gt;
 &lt;h5&gt;要求：&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;有一台在海外的云主机，比如：Linode、DigitalOcean&lt;/li&gt;
+&lt;li&gt;有一台在海外的云主机，比如：&lt;a href="http://www.linode.com/" title="Linode"&gt;Linode&lt;/a&gt; 、&lt;a href="http://www.digitalocean.com/" title="DigitalOcean"&gt;DigitalOcean&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;了解一点Linux技术，SSH Tunnel、Squid和Firefox浏览器的代理设置&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
