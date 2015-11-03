@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chifeng's Blog</title><link>http://blog.chifeng.io/</link><description></description><atom:link href="http://blog.chifeng.io/feeds/chifeng.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 24 Jun 2014 00:00:00 +0800</lastBuildDate><item><title>The First Post</title><link>http://blog.chifeng.io/the-first-post.html</link><description>&lt;p&gt;This is the first post to test functions of Pelican which is a Python blog system. There is a list to share my online information, please feel free to contact me. &lt;/p&gt;
+&lt;p&gt;第一篇文章，主要用来测试Pelican的功能，另外列出一些自己的个人信息供联系
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h5&gt;Personal Information Below:&lt;/h5&gt;
+&lt;h5&gt;个人信息如下:&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Blog: http://blog.chifeng.name/&lt;/li&gt;
+&lt;li&gt;Facebook:  http://facebook.com/quchifeng&lt;/li&gt;
+&lt;li&gt;G+:   https://plus.google.com/+ChifengQu/&lt;/li&gt;
+&lt;li&gt;Twitter:  http://twitter.com/chifeng&lt;/li&gt;
+&lt;li&gt;微博:  http://weibo.com/quchifeng&lt;/li&gt;
+&lt;li&gt;Github:  http://github.com/chifeng&lt;/li&gt;
+&lt;li&gt;SF.gg:  http://segmentfault.com/u/chifeng&lt;/li&gt;
+&lt;li&gt;Tumblr:  http://tumblr.com/chifeng&lt;/li&gt;
+&lt;li&gt;Instagram: http://instagram.com/chifeng&lt;/li&gt;
+&lt;li&gt;Quora: https://www.quora.com/Chifeng-Qu&lt;/li&gt;
+&lt;li&gt;Foursquare: https://foursquare.com/user/1184604&lt;/li&gt;
+&lt;li&gt;Zhihu: http://www.zhihu.com/people/chifeng&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chifeng</dc:creator><pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate><guid>tag:blog.chifeng.io,2014-06-24:the-first-post.html</guid><category>Life</category><category>English</category></item></channel></rss>
